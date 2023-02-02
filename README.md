@@ -1,5 +1,5 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Sai Charan Krishnagiri](https://github.com/charan94)!
-I work as a Full Stack Developer in InstaLOD. I am currently based in India.
+I work as a Senior Full Stack Engineer in Kognitiv Inc.
 
 ### My Key Skills
 

@@ -4,7 +4,7 @@ I work as a Senior Full Stack Engineer in Kognitiv Inc.
 ### My Key Skills
 
 #### Backend - Spring Boot, NodeJS
-#### Front End - Javascript, HTML, CSS, Angular, React, Redux, 
+#### Front End - Javascript, HTML, CSS, Angular, React, Redux, Vue, Next
 #### Database - MySQL, PostgreSQL, MongoDB
 #### Tools - Docker, Kubernetes
 #### Cloud - AWS

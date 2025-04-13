@@ -1,5 +1,5 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Sai Charan Krishnagiri](https://github.com/charan94)!
-I work as a Senior Full Stack Engineer in Kognitiv Inc.
+I work as a Senior Full Stack Engineer in Starbucks.
 
 ### My Key Skills
 
